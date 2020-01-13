@@ -554,6 +554,7 @@ nav:
         - 'Customizing Login Pages for Service Providers': develop/customizing-login-pages-for-service-providers.md
         - 'Customizing the SSO Redirection Page': develop/customizing-the-sso-redirection-page.md      
       - 'Customizing the Authentication Endpoint': develop/customizing-the-authentication-endpoint.md
+      - 'Externalizing Authentication Endpoint and Recovery Endpoint': develop/externalizing-authentication-and-recovery-endpoints.md
       - 'Localization Support in Identity Server': develop/localization-support-in-identity-server.md
       - 'Hosting Authentication Endpoint on a Different Server': develop/hosting-authentication-endpoint-on-a-different-server.md      
   - 'Setup':
